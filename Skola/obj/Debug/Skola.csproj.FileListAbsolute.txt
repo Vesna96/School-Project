@@ -1,0 +1,132 @@
+C:\Users\Vesna\source\repos\Skola\Skola\bin\Debug\Skola.exe.config
+C:\Users\Vesna\source\repos\Skola\Skola\bin\Debug\Skola.exe
+C:\Users\Vesna\source\repos\Skola\Skola\bin\Debug\Skola.pdb
+C:\Users\Vesna\source\repos\Skola\Skola\bin\Debug\Cassandra.dll
+C:\Users\Vesna\source\repos\Skola\Skola\bin\Debug\CassandraDataLayer.dll
+C:\Users\Vesna\source\repos\Skola\Skola\bin\Debug\LZ4.dll
+C:\Users\Vesna\source\repos\Skola\Skola\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vesna\source\repos\Skola\Skola\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vesna\source\repos\Skola\Skola\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Vesna\source\repos\Skola\Skola\bin\Debug\CassandraDataLayer.pdb
+C:\Users\Vesna\source\repos\Skola\Skola\bin\Debug\Cassandra.xml
+C:\Users\Vesna\source\repos\Skola\Skola\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Vesna\source\repos\Skola\Skola\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Vesna\source\repos\Skola\Skola\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Vesna\source\repos\Skola\Skola\obj\Debug\Skola.csprojAssemblyReference.cache
+C:\Users\Vesna\source\repos\Skola\Skola\obj\Debug\Skola.DirektorForm.resources
+C:\Users\Vesna\source\repos\Skola\Skola\obj\Debug\Skola.DodajPredmet.resources
+C:\Users\Vesna\source\repos\Skola\Skola\obj\Debug\Skola.Form1.resources
+C:\Users\Vesna\source\repos\Skola\Skola\obj\Debug\Skola.Properties.Resources.resources
+C:\Users\Vesna\source\repos\Skola\Skola\obj\Debug\Skola.csproj.GenerateResource.cache
+C:\Users\Vesna\source\repos\Skola\Skola\obj\Debug\Skola.csproj.CoreCompileInputs.cache
+C:\Users\Vesna\source\repos\Skola\Skola\obj\Debug\Skola.csproj.CopyComplete
+C:\Users\Vesna\source\repos\Skola\Skola\obj\Debug\Skola.exe
+C:\Users\Vesna\source\repos\Skola\Skola\obj\Debug\Skola.pdb
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\bin\Debug\Skola.exe.config
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.exe
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.pdb
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\bin\Debug\Skola.exe
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\bin\Debug\Skola.pdb
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\bin\Debug\Cassandra.dll
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\bin\Debug\CassandraDataLayer.dll
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\bin\Debug\LZ4.dll
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\bin\Debug\CassandraDataLayer.pdb
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\bin\Debug\Cassandra.xml
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.csprojResolveAssemblyReference.cache
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.DirektorForm.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.Form1.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.Properties.Resources.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.csproj.GenerateResource.Cache
+C:\Users\Vesna\Desktop\Skola\Skola\bin\Debug\Skola.exe.config
+C:\Users\Vesna\Desktop\Skola\Skola\bin\Debug\Skola.exe
+C:\Users\Vesna\Desktop\Skola\Skola\bin\Debug\Skola.pdb
+C:\Users\Vesna\Desktop\Skola\Skola\bin\Debug\Cassandra.dll
+C:\Users\Vesna\Desktop\Skola\Skola\bin\Debug\CassandraDataLayer.dll
+C:\Users\Vesna\Desktop\Skola\Skola\bin\Debug\LZ4.dll
+C:\Users\Vesna\Desktop\Skola\Skola\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vesna\Desktop\Skola\Skola\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vesna\Desktop\Skola\Skola\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Vesna\Desktop\Skola\Skola\bin\Debug\CassandraDataLayer.pdb
+C:\Users\Vesna\Desktop\Skola\Skola\bin\Debug\Cassandra.xml
+C:\Users\Vesna\Desktop\Skola\Skola\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Vesna\Desktop\Skola\Skola\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Vesna\Desktop\Skola\Skola\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Vesna\Desktop\Skola\Skola\obj\Debug\Skola.csprojAssemblyReference.cache
+C:\Users\Vesna\Desktop\Skola\Skola\obj\Debug\Skola.DirektorForm.resources
+C:\Users\Vesna\Desktop\Skola\Skola\obj\Debug\Skola.Form1.resources
+C:\Users\Vesna\Desktop\Skola\Skola\obj\Debug\Skola.Properties.Resources.resources
+C:\Users\Vesna\Desktop\Skola\Skola\obj\Debug\Skola.csproj.GenerateResource.cache
+C:\Users\Vesna\Desktop\Skola\Skola\obj\Debug\Skola.csproj.CoreCompileInputs.cache
+C:\Users\Vesna\Desktop\Skola\Skola\obj\Debug\Skola.csproj.CopyComplete
+C:\Users\Vesna\Desktop\Skola\Skola\obj\Debug\Skola.exe
+C:\Users\Vesna\Desktop\Skola\Skola\obj\Debug\Skola.pdb
+C:\Users\Vesna\Desktop\Skola\Skola\obj\Debug\Skola.Predmeti.resources
+C:\Users\Vesna\Desktop\Skola\Skola\obj\Debug\Skola.SmeroviForm.resources
+C:\Users\Vesna\Desktop\Skola\Skola\obj\Debug\Skola.ProfesorForm.resources
+C:\Users\Vesna\Desktop\Skola\Skola\obj\Debug\Skola.RedovniProfesorForm.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.Predmeti.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.ProfesorForm.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.RedovniProfesorForm.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.DodajCasForm.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.UcenikNovoForm.resources
+C:\Users\Vesna\Desktop\Skola\Skola\obj\Debug\Skola.DodajCasForm.resources
+C:\Users\Vesna\Desktop\Skola\Skola\obj\Debug\Skola.UcenikNovoForm.resources
+C:\Users\Vesna\Desktop\Skola\Skola\obj\Debug\Skola.IzostanciForm.resources
+C:\Users\Vesna\Desktop\Skola\Skola\obj\Debug\Skola.NapomenaForm.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.IzostanciForm.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.NapomenaForm.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.RazredniForm.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.RazredniIzostanciForm.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.RazredniOceneForm.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.RazredniNapomeneForm.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.UcenikForm.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.OdeljenjaNaSmeru.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.SmeroviForm.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.UceniciUOdeljenju.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.DodajProfesora.resources
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\Skola\obj\Debug\Skola.ProfesorFormInterfejs.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\bin\Debug\Skola.exe.config
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\bin\Debug\Skola.exe
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\bin\Debug\Skola.pdb
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\bin\Debug\Cassandra.dll
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\bin\Debug\CassandraDataLayer.dll
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\bin\Debug\LZ4.dll
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\bin\Debug\CassandraDataLayer.pdb
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\bin\Debug\Cassandra.xml
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.DirektorForm.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.DodajCasForm.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.DodajProfesora.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.IzostanciForm.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.OdeljenjaNaSmeru.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.Predmeti.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.Form1.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.ProfesorForm.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.ProfesorFormInterfejs.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.RazredniForm.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.RazredniIzostanciForm.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.RazredniNapomeneForm.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.RazredniOceneForm.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.RedovniProfesorForm.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.SmeroviForm.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.UceniciUOdeljenju.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.UcenikForm.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.UcenikNovoForm.resources
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.exe
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\Skola\obj\Debug\Skola.pdb

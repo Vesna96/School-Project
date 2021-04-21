@@ -1,0 +1,62 @@
+C:\Users\Vesna\source\repos\Skola\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll
+C:\Users\Vesna\source\repos\Skola\CassandraDataLayer\bin\Debug\CassandraDataLayer.pdb
+C:\Users\Vesna\source\repos\Skola\CassandraDataLayer\bin\Debug\Cassandra.dll
+C:\Users\Vesna\source\repos\Skola\CassandraDataLayer\bin\Debug\LZ4.dll
+C:\Users\Vesna\source\repos\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vesna\source\repos\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vesna\source\repos\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Vesna\source\repos\Skola\CassandraDataLayer\bin\Debug\Cassandra.xml
+C:\Users\Vesna\source\repos\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Vesna\source\repos\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Vesna\source\repos\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Vesna\source\repos\Skola\CassandraDataLayer\obj\Debug\CassandraDataLayer.csprojAssemblyReference.cache
+C:\Users\Vesna\source\repos\Skola\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vesna\source\repos\Skola\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CopyComplete
+C:\Users\Vesna\source\repos\Skola\CassandraDataLayer\obj\Debug\CassandraDataLayer.dll
+C:\Users\Vesna\source\repos\Skola\CassandraDataLayer\obj\Debug\CassandraDataLayer.pdb
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\CassandraDataLayer\bin\Debug\CassandraDataLayer.pdb
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\CassandraDataLayer\bin\Debug\Cassandra.dll
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\CassandraDataLayer\bin\Debug\LZ4.dll
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\CassandraDataLayer\bin\Debug\Cassandra.xml
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\CassandraDataLayer\obj\Debug\CassandraDataLayer.csprojResolveAssemblyReference.cache
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\CassandraDataLayer\obj\Debug\CassandraDataLayer.dll
+F:\RAČUNARSTVO I INFORMATIKA\IV GODINA\NAPREDNE BAZE PODATAKA\Projekat2-Elektronski dnevnik\Skola\CassandraDataLayer\obj\Debug\CassandraDataLayer.pdb
+C:\Users\Vesna\Desktop\Skola\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll
+C:\Users\Vesna\Desktop\Skola\CassandraDataLayer\bin\Debug\CassandraDataLayer.pdb
+C:\Users\Vesna\Desktop\Skola\CassandraDataLayer\bin\Debug\Cassandra.dll
+C:\Users\Vesna\Desktop\Skola\CassandraDataLayer\bin\Debug\LZ4.dll
+C:\Users\Vesna\Desktop\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Vesna\Desktop\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vesna\Desktop\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Vesna\Desktop\Skola\CassandraDataLayer\bin\Debug\Cassandra.xml
+C:\Users\Vesna\Desktop\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Vesna\Desktop\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Vesna\Desktop\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Vesna\Desktop\Skola\CassandraDataLayer\obj\Debug\CassandraDataLayer.csprojAssemblyReference.cache
+C:\Users\Vesna\Desktop\Skola\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Vesna\Desktop\Skola\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CopyComplete
+C:\Users\Vesna\Desktop\Skola\CassandraDataLayer\obj\Debug\CassandraDataLayer.dll
+C:\Users\Vesna\Desktop\Skola\CassandraDataLayer\obj\Debug\CassandraDataLayer.pdb
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\CassandraDataLayer\bin\Debug\CassandraDataLayer.dll
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\CassandraDataLayer\bin\Debug\CassandraDataLayer.pdb
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\CassandraDataLayer\bin\Debug\Cassandra.dll
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\CassandraDataLayer\bin\Debug\LZ4.dll
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\CassandraDataLayer\bin\Debug\Cassandra.xml
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\CassandraDataLayer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\CassandraDataLayer\obj\Debug\CassandraDataLayer.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\CassandraDataLayer\obj\Debug\CassandraDataLayer.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\CassandraDataLayer\obj\Debug\CassandraDataLayer.dll
+C:\Users\Korisnik\Desktop\New folder\NBP\NBP-Cassandra\Skola\CassandraDataLayer\obj\Debug\CassandraDataLayer.pdb
